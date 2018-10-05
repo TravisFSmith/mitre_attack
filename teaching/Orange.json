@@ -1,0 +1,305 @@
+{
+	"name": "Orange",
+	"version": "2.0",
+	"domain": "mitre-enterprise",
+	"description": "",
+	"filters": {
+		"stages": [
+			"act"
+		],
+		"platforms": [
+			"windows"
+		]
+	},
+	"sorting": 0,
+	"viewMode": 0,
+	"hideDisabled": false,
+	"techniques": [
+		{
+			"techniqueID": "T1017",
+			"tactic": "lateral-movement",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1197",
+			"tactic": "defense-evasion",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1197",
+			"tactic": "persistence",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1176",
+			"tactic": "persistence",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1116",
+			"tactic": "defense-evasion",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1043",
+			"tactic": "command-and-control",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1207",
+			"tactic": "defense-evasion",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1172",
+			"tactic": "command-and-control",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1189",
+			"tactic": "initial-access",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1048",
+			"tactic": "exfiltration",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1041",
+			"tactic": "exfiltration",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1011",
+			"tactic": "exfiltration",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1133",
+			"tactic": "persistence",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1187",
+			"tactic": "credential-access",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1062",
+			"tactic": "persistence",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1171",
+			"tactic": "credential-access",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1170",
+			"tactic": "defense-evasion",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1170",
+			"tactic": "execution",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1188",
+			"tactic": "command-and-control",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1026",
+			"tactic": "command-and-control",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1079",
+			"tactic": "command-and-control",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1108",
+			"tactic": "defense-evasion",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1108",
+			"tactic": "persistence",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1085",
+			"tactic": "defense-evasion",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1085",
+			"tactic": "execution",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1178",
+			"tactic": "privilege-escalation",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1051",
+			"tactic": "lateral-movement",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1216",
+			"tactic": "defense-evasion",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1216",
+			"tactic": "execution",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1045",
+			"tactic": "defense-evasion",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1071",
+			"tactic": "command-and-control",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1095",
+			"tactic": "command-and-control",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1080",
+			"tactic": "lateral-movement",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1111",
+			"tactic": "credential-access",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1065",
+			"tactic": "command-and-control",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1102",
+			"tactic": "command-and-control",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1102",
+			"tactic": "defense-evasion",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1100",
+			"tactic": "persistence",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1100",
+			"tactic": "privilege-escalation",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		}
+	],
+	"gradient": {
+		"colors": [
+			"#ff6666",
+			"#ffe766",
+			"#8ec843"
+		],
+		"minValue": 0,
+		"maxValue": 100
+	},
+	"legendItems": [],
+	"showTacticRowBackground": false,
+	"tacticRowBackground": "#dddddd",
+	"selectTechniquesAcrossTactics": true
+}
