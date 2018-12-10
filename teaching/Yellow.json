@@ -273,6 +273,20 @@
 			"color": "#fce93b",
 			"comment": "",
 			"enabled": true
+		},
+		{
+			"techniqueID": "T1223",
+			"tactic": "defense-evasion",
+			"color": "#fce93b",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1223",
+			"tactic": "execution",
+			"color": "#fce93b",
+			"comment": "",
+			"enabled": true
 		}
 	],
 	"gradient": {

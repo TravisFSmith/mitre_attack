@@ -240,13 +240,6 @@
 			"enabled": true
 		},
 		{
-			"techniqueID": "T1040",
-			"tactic": "credential-access",
-			"color": "#31a354",
-			"comment": "",
-			"enabled": true
-		},
-		{
 			"techniqueID": "T1050",
 			"tactic": "privilege-escalation",
 			"color": "#31a354",
@@ -480,6 +473,27 @@
 		{
 			"techniqueID": "T1004",
 			"tactic": "persistence",
+			"color": "#31a354",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1098",
+			"tactic": "persistence",
+			"color": "#31a354",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1222",
+			"tactic": "defense-evasion",
+			"color": "#31a354",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1221",
+			"tactic": "defense-evasion",
 			"color": "#31a354",
 			"comment": "",
 			"enabled": true

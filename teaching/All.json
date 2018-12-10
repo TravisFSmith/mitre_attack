@@ -1,5 +1,5 @@
 {
-	"name": "layer",
+	"name": "All",
 	"version": "2.0",
 	"domain": "mitre-enterprise",
 	"description": "",
@@ -949,7 +949,7 @@
 		{
 			"techniqueID": "T1040",
 			"tactic": "credential-access",
-			"color": "#31a354",
+			"color": "#fce93b",
 			"comment": "",
 			"enabled": true
 		},
@@ -1678,6 +1678,62 @@
 			"techniqueID": "T1004",
 			"tactic": "persistence",
 			"color": "#31a354",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1098",
+			"tactic": "persistence",
+			"color": "#31a354",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1223",
+			"tactic": "defense-evasion",
+			"color": "#fce93b",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1223",
+			"tactic": "execution",
+			"color": "#fce93b",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1222",
+			"tactic": "defense-evasion",
+			"color": "#31a354",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1040",
+			"tactic": "discovery",
+			"color": "#fce93b",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1221",
+			"tactic": "defense-evasion",
+			"color": "#31a354",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1220",
+			"tactic": "defense-evasion",
+			"color": "#fc3b3b",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1220",
+			"tactic": "execution",
+			"color": "#fc3b3b",
 			"comment": "",
 			"enabled": true
 		}

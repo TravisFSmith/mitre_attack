@@ -287,6 +287,20 @@
 			"color": "#fd8d3c",
 			"comment": "",
 			"enabled": true
+		},
+		{
+			"techniqueID": "T1040",
+			"tactic": "credential-access",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
+		},
+		{
+			"techniqueID": "T1040",
+			"tactic": "discovery",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true
 		}
 	],
 	"gradient": {
